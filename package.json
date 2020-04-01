@@ -1,0 +1,27 @@
+{
+  "name": "paypal-rn",
+  "version": "1.0.0",
+  "description": "[Integrating Paypal in your react native app](https://medium.com/@adityasingh_32512/integrating-paypal-in-your-react-native-app-4dcf89e11dd)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consolidate": "^0.15.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "paypal-rest-sdk": "^1.8.1"
+  },
+  "engines": {
+    "node": "10.10.0"
+  }
+}
